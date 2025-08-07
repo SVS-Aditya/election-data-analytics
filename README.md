@@ -8,7 +8,7 @@ An exploratory analysis of the Indian General Election 2019 candidate data using
 - Visualize relationships between candidate attributes and electoral outcomes.
 
 ##  Dataset
-- **Source:** [Kaggle – Indian Candidates for General Election 2019](https://www.kaggle.com/datasets/prakrutchauhan/indian-candidates-for-general-election-2019) :contentReference[oaicite:0]{index=0}
+- **Source:** [Kaggle – Indian Candidates for General Election 2019](https://www.kaggle.com/datasets/prakrutchauhan/indian-candidates-for-general-election-2019)
 - **Contents:** Candidate-level details including state, constituency, party, age, gender, education, criminal cases, assets, liabilities, etc.
 
 ##  Tools & Technologies
