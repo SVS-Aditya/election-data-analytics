@@ -22,9 +22,8 @@ An exploratory analysis of the Indian General Election 2019 candidate data using
 - **Criminal background prevalence** by party/state
 - Relationships between **asset declaration** and electoral success
 
-*(Specific insights from your notebook visuals—like top parties by win count or education trends—can be included here once you confirm.)*
 
 ##  How to Use This Repo
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/indian-election-2019-analysis.git
+   git clone https://github.com/SVS-Aditya/election_data_analytics.git
